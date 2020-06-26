@@ -1,0 +1,16 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "Refactoring and patterns examples",
+  "scripts": {
+    "start": "tsc ./index.ts --outDir ./compiled && node ./compiled/index.js"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:truezombie/refactoring.git",
+  "author": "Oleg Ovcharenko <oleshka.ovcharenko@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}

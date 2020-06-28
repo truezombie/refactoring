@@ -1,4 +1,3 @@
-import { test } from "./patterns";
+import run from "./patterns/creational/factoryMethod/factoryModalWindow";
 
-test("test");
-console.log("typescript test");
+run();

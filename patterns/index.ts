@@ -1,3 +1,3 @@
-export const test = (test: string): void => {
-  console.log(test);
-};
+import run from "./creational/factoryMethod/factoryModalWindow";
+
+run();

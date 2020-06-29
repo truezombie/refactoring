@@ -1,3 +1,3 @@
-import run from "./patterns/creational/prototype/prototypeButton";
+import run from "./patterns/creational/singleton/singleton";
 
 run();

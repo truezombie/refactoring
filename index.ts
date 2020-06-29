@@ -1,3 +1,3 @@
-import run from "./patterns/creational/abstractFactory/abstractFactoryUsers";
+import run from "./patterns/creational/prototype/prototypeButton";
 
 run();

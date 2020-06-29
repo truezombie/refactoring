@@ -1,3 +1,3 @@
-import run from "./patterns/creational/factoryMethod/factoryModalWindow";
+import run from "./patterns/creational/abstractFactory/abstractFactoryUsers";
 
 run();

@@ -1,3 +1,3 @@
-import run from "./patterns/creational/singleton/singleton";
+import run from "./patterns/structural/adapter/adapter";
 
 run();

@@ -1,3 +1,3 @@
-import run from "./patterns/structural/bridge/bridgeCars";
+import run from "./patterns/structural/composite/composite";
 
 run();

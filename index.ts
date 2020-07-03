@@ -1,3 +1,3 @@
-import run from "./patterns/structural/composite/composite";
+import run from "./patterns/structural/decorator/decoratorCar";
 
 run();

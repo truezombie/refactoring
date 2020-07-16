@@ -1,3 +1,3 @@
-import run from "./patterns/structural/facade/facade";
+import run from "./patterns/structural/flyweight/flyweight";
 
 run();

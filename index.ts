@@ -1,3 +1,3 @@
-import run from "./patterns/structural/flyweight/flyweight";
+import run from "./patterns/structural/proxy/proxy";
 
 run();

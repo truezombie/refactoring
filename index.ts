@@ -1,3 +1,3 @@
-import run from "./patterns/structural/proxy/proxy";
+import run from "./patterns/behavioral/chain/chain";
 
 run();

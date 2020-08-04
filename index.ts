@@ -1,3 +1,3 @@
-import run from "./patterns/behavioral/chain/chain";
+import run from "./patterns/behavioral/command/command";
 
 run();

@@ -1,3 +1,3 @@
-import run from "./patterns/behavioral/iterator/iterator";
+import run from "./patterns/behavioral/mediator/mediator";
 
 run();

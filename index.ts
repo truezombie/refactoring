@@ -1,3 +1,3 @@
-import run from "./patterns/behavioral/tempalte/template";
+import run from "./patterns/behavioral/visitor/visitor";
 
 run();

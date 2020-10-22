@@ -1,3 +1,3 @@
-import run from "./patterns/behavioral/strategy/stategy";
+import run from "./patterns/behavioral/tempalte/template";
 
 run();
